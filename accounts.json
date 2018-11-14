@@ -1,0 +1,22 @@
+{
+	"accounts": [
+		{
+			"merchantId": 1000000000,
+			"merchantName": "Benchy",
+			"merchantEmail": "Benchy@mail.com",
+			"merchantOwner": "Sandy",
+			"businessType": "Restaurant",
+			"bankAccount": "9876554321",
+			"branches": []
+		},
+		{
+			"merchantId": 1000000001,
+			"merchantName": "Penshopy",
+			"merchantEmail": "Penshopy@mail.com",
+			"merchantOwner": "Penshy",
+			"businessType": "Hotel",
+			"bankAccount": "9876554322",
+			"branches": []
+		}
+	]
+}
